@@ -1,7 +1,7 @@
-# KulinerKita-MachineLearning
-##  KulinerKIta (Team C242-PS155) - ML Repository
+# 🍲 KulinerKita - Machine Learning
+## 🍴 KulinerKIta (Team C242-PS155) - ML Repository
 
-KulinerKita Machine Learning Repository for Bangkit Capstone Project. Building  Model.
+KulinerKita Machine Learning Repository for Bangkit Capstone Project. Building Model of Culinary Location Recommendation System Based on Distance and Best Rating.
 ## KulinerKita's Developer of Machine Learning Bangkit Academy Capstone Team C242-PS155
 |            Member           | Student ID |        Path        |                    Role                    |                                                       Contacts                                                      |
 | :-------------------------: | :--------: | :----------------: | :----------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
@@ -14,3 +14,5 @@ KulinerKita Machine Learning Repository for Bangkit Capstone Project. Building  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
