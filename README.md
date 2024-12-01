@@ -15,6 +15,7 @@ KulinerKita Machine Learning Repository for Bangkit Capstone Project. Building M
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-purple?logo=pandas&logoColor=white&style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?logo=matplotlib&logoColor=white&style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?logo=https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg&logoColor=white&style=for-the-badge)
+
 
 
