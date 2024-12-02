@@ -17,6 +17,26 @@ KulinerKita Machine Learning Repository for Bangkit Capstone Project. Building M
 ![Pandas](https://img.shields.io/badge/Pandas-purple?logo=pandas&logoColor=white&style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48cGF0aCBkPSJNOC4wNSAxLjQ0Yy4yMy0uMTMgLjUyLS4wOC43Ni4xNWw0LjI0IDMuODRjLjI0LjIxLjI0LjU3IDAgLjc4TDguODEgOS44M2MuMjQuMi4yNS41OC4wMy43OWwtNC4yMyAzLjgzYy0uMjMuMjA1LS41OC4xNS0uODEtLjA1TC4zMiA4LjgyYy0uMjMtLjItLjIzLS41MS4wMi0uNzJsNy43MS02LjY2eiIgZmlsbD0iI0ZGRiIgZmlsbC1ydWxlPSJub256ZXJvIi8+PC9zdmc+&logoColor=white)
 
+## About 
+
+## Scrapping Dataset from Google Maps Using [Octoparse](https://www.octoparse.com/)
+
+We have collected 607 lines of local food data in the city of Surakarta with the fields Page URL, shop name, rating, reviews, category, address, phone number, opening hours, price range, latitude, longitude. The data collection consists of 607 rows and 11 columns, intended to facilitate the development of a culinary recommendation system in the city of Solo based on the closest distance, user ratings, reviews and weather. The data set is stored in df_all_new.csv
+
+### Metadata
+- **Page_URL:** The URL of the page that leads to the detailed information of the culinary location, where the link will direct to the Google Map of the culinary location.
+- **Shop_name:** The name of the restaurant or culinary location.
+- **Rating:** The assessment score given by the customer is in the range of 1-5.
+- **Reviews:**  Number of reviews left by customers.
+- **Kategori:** Traditional food categories in Surakarta. For example, pecel, satay, and others.
+- **Address:** The full address of the restaurant. 
+- **Phone_Number:** Phone number to contact for reservations or further information.
+- **Opening_Hours:** The restaurant's operating hours, using format of days and hours.
+- **Range_Harga:** Price range of food and beverages offered.
+-**Latitude:** The latitude coordinates of the restaurant location in decimal format. 
+- **Longitude:** The longitude coordinates of the dining location in decimal format. 
+- **Eco_Friendly:** An indicator of whether a restaurant has an eco-friendly policy is usually seen from the use of packaging and the way dishes are served. Contains True or False values. 
+
 
 
 
