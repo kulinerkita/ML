@@ -37,6 +37,20 @@ We have collected 607 lines of local food data in the city of Surakarta with the
 - **Longitude:** The longitude coordinates of the dining location in decimal format. 
 - **Eco_Friendly:** An indicator of whether a restaurant has an eco-friendly policy is usually seen from the use of packaging and the way dishes are served. Contains True or False values. 
 
+## Run the ipynb in Google Colab
+You don't need to install anything just follow the steps below:
+1. Download or clone this repository
+2. Open Google Colab
+3. Import the .ipynb file
+4. Run the code
 
+## Run in Local
+1. Download the .ipynb file or clone this repostitory
+2. Run this locally using ex: jupyter notebook
+3. Install all the dependencies
+  ```
+  ! pip install -r requirements.txt
+  ```
+4. Run all the code
 
 
