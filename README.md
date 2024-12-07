@@ -1,5 +1,5 @@
 # 🍲 KulinerKita - Machine Learning
-## 🍴 KulinerKIta (Team C242-PS155) - ML Repository
+## 🍴 KulinerKita (Team C242-PS155) - ML Repository
 
 KulinerKita Machine Learning Repository for Bangkit Capstone Project. Building Model of Culinary Location Recommendation System Based on Distance, Best Reviews, and Best Rating.
 ## KulinerKita's Developer of Machine Learning Bangkit Academy Capstone Team C242-PS155
@@ -20,8 +20,6 @@ KulinerKita Machine Learning Repository for Bangkit Capstone Project. Building M
 ## About 
 
 #### Model Training Performance
-![trainingMAE](![image](https://github.com/user-attachments/assets/ef5ef76b-dfa9-4321-936b-78e99bca763d)
-)
 
 #### Performance Summary
 Models | MAE | Val MAE
