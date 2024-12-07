@@ -20,7 +20,7 @@ KulinerKita Machine Learning Repository for Bangkit Capstone Project. Building M
 ## About 
 
 #### Model Training Performance
-![trainingmae](ML/grafik_mae.png)
+![trainingmae](https://github.com/kulinerkita/ML/blob/main/grafik%20mae.png)
 
 #### Performance Summary
 Models | MAE | Val MAE
