@@ -1,7 +1,7 @@
 # 🍲 KulinerKita - Machine Learning
 ## 🍴 KulinerKIta (Team C242-PS155) - ML Repository
 
-KulinerKita Machine Learning Repository for Bangkit Capstone Project. Building Model of Culinary Location Recommendation System Based on Distance and Best Rating.
+KulinerKita Machine Learning Repository for Bangkit Capstone Project. Building Model of Culinary Location Recommendation System Based on Distance, Best Reviews, and Best Rating.
 ## KulinerKita's Developer of Machine Learning Bangkit Academy Capstone Team C242-PS155
 |            Member           | Student ID |        Path        |                    Role                    |                                                       Contacts                                                      |
 | :-------------------------: | :--------: | :----------------: | :----------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
@@ -18,6 +18,15 @@ KulinerKita Machine Learning Repository for Bangkit Capstone Project. Building M
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48cGF0aCBkPSJNOC4wNSAxLjQ0Yy4yMy0uMTMgLjUyLS4wOC43Ni4xNWw0LjI0IDMuODRjLjI0LjIxLjI0LjU3IDAgLjc4TDguODEgOS44M2MuMjQuMi4yNS41OC4wMy43OWwtNC4yMyAzLjgzYy0uMjMuMjA1LS41OC4xNS0uODEtLjA1TC4zMiA4LjgyYy0uMjMtLjItLjIzLS41MS4wMi0uNzJsNy43MS02LjY2eiIgZmlsbD0iI0ZGRiIgZmlsbC1ydWxlPSJub256ZXJvIi8+PC9zdmc+&logoColor=white)
 
 ## About 
+
+#### Model Training Performance
+![trainingMAE](![image](https://github.com/user-attachments/assets/ef5ef76b-dfa9-4321-936b-78e99bca763d)
+)
+
+#### Performance Summary
+Models | MAE | Val MAE
+------------ | ------------- | -------------
+Recommendation System Based on Distance, Best Reviews, and Best Rating | 0.0102 | 0.0087
 
 ## Scrapping Dataset from Google Maps Using [Octoparse](https://www.octoparse.com/)
 
