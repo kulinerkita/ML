@@ -20,6 +20,7 @@ KulinerKita Machine Learning Repository for Bangkit Capstone Project. Building M
 ## About 
 
 #### Model Training Performance
+![trainingmae](https://github.com/kulinerkita/ML/blob/main/grafik%20mae.png)
 
 #### Performance Summary
 Models | MAE | Val MAE
@@ -28,7 +29,7 @@ Recommendation System Based on Distance, Best Reviews, and Best Rating | 0.0102 
 
 ## Scrapping Dataset from Google Maps Using [Octoparse](https://www.octoparse.com/)
 
-We have collected 607 lines of local food data in the city of Surakarta with the fields Page URL, shop name, rating, reviews, category, address, phone number, opening hours, price range, latitude, longitude. The data collection consists of 607 rows and 11 columns, intended to facilitate the development of a culinary recommendation system in the city of Solo based on the closest distance, user ratings, reviews and weather. The data set is stored in df_all_new.csv
+We have collected 607 lines of local food data in the city of Surakarta with the fields Page URL, shop name, rating, reviews, category, address, phone number, opening hours, price range, latitude, longitude. The data collection consists of 607 rows and 11 columns, intended to facilitate the development of a culinary recommendation system in the city of Solo based on the closest distance, user ratings, reviews and weather. The data set is stored in [df.all.vew.xlsx](https://github.com/kulinerkita/ML/blob/main/df_all_new.xlsx)
 
 ### Metadata
 - **Page_URL:** The URL of the page that leads to the detailed information of the culinary location, where the link will direct to the Google Map of the culinary location.
