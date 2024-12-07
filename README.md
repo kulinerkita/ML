@@ -18,6 +18,7 @@ KulinerKita Machine Learning Repository for Bangkit Capstone Project. Building M
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48cGF0aCBkPSJNOC4wNSAxLjQ0Yy4yMy0uMTMgLjUyLS4wOC43Ni4xNWw0LjI0IDMuODRjLjI0LjIxLjI0LjU3IDAgLjc4TDguODEgOS44M2MuMjQuMi4yNS41OC4wMy43OWwtNC4yMyAzLjgzYy0uMjMuMjA1LS41OC4xNS0uODEtLjA1TC4zMiA4LjgyYy0uMjMtLjItLjIzLS41MS4wMi0uNzJsNy43MS02LjY2eiIgZmlsbD0iI0ZGRiIgZmlsbC1ydWxlPSJub256ZXJvIi8+PC9zdmc+&logoColor=white)
 
 ## About 
+We have model, local culinary in Surakarta datasets, and recomendation algorithm in this repository
 
 #### Model Training Performance
 ![trainingmae](https://github.com/kulinerkita/ML/blob/main/grafik%20mae.png)
