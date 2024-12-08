@@ -46,6 +46,12 @@ We have collected 607 lines of local food data in the city of Surakarta with the
 - **Longitude:** The longitude coordinates of the dining location in decimal format. 
 - **Eco_Friendly:** An indicator of whether a restaurant has an eco-friendly policy is usually seen from the use of packaging and the way dishes are served. Contains True or False values. 
 
+## Culinary Recommendations Based on User Preferences
+The primary purpose of the KulinerKita recommendation module is to enhance the user experience by offering curated dining suggestions that align with user preferences, including cuisine type, current weather, and top-rated establishments.
+
+### ALgorithm Recommendation
+The [recommendation algorithm](https://github.com/kulinerkita/ML/blob/main/Model_ML_Fix.ipynb) uses content-based filtering techniques to provide appropriate dining recommendations. The content-based filtering adjustment is based on the characteristics of each restaurant and the distance from the user to each restaurant. Restaurants are filtered according to the current weather and the category desired by the user.
+
 ## Run the ipynb in Google Colab
 You don't need to install anything just follow the steps below:
 1. Download or clone this repository
