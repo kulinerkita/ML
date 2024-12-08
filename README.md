@@ -42,7 +42,7 @@ We have collected 607 lines of local food data in the city of Surakarta with the
 - **Phone_Number:** Phone number to contact for reservations or further information.
 - **Opening_Hours:** The restaurant's operating hours, using format of days and hours.
 - **Range_Harga:** Price range of food and beverages offered.
--**Latitude:** The latitude coordinates of the restaurant location in decimal format. 
+- **Latitude:** The latitude coordinates of the restaurant location in decimal format. 
 - **Longitude:** The longitude coordinates of the dining location in decimal format. 
 - **Eco_Friendly:** An indicator of whether a restaurant has an eco-friendly policy is usually seen from the use of packaging and the way dishes are served. Contains True or False values. 
 
