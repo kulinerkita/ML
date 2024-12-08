@@ -44,7 +44,8 @@ We have collected 607 lines of local food data in the city of Surakarta with the
 - **Range_Harga:** Price range of food and beverages offered.
 - **Latitude:** The latitude coordinates of the restaurant location in decimal format. 
 - **Longitude:** The longitude coordinates of the dining location in decimal format. 
-- **Eco_Friendly:** An indicator of whether a restaurant has an eco-friendly policy is usually seen from the use of packaging and the way dishes are served. Contains True or False values. 
+- **Eco_Friendly:** An indicator of whether a restaurant has an eco-friendly policy is usually seen from the use of packaging and the way dishes are served. Contains True or False values.
+- **Categorize_Weather:** Label whether the food is suitable for cold, hot, and cold/hot.
 
 ## Culinary Recommendations Based on User Preferences
 The primary purpose of the KulinerKita recommendation module is to enhance the user experience by offering curated dining suggestions that align with user preferences, including cuisine type, current weather, and top-rated establishments.
